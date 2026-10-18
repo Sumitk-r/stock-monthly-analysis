@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-10-17T13:11:37.251003+00:00",
+  "method": "Independent standard-library audit of every output cell",
+  "source_sha256": "440c9b143983d6aa4732b52530cad3ab14604a068450067c12bb2cebad61d0be",
+  "source_rows": 5030,
+  "source_first_date": "2018-01-02",
+  "source_last_date": "2019-12-31",
+  "source_rows_per_ticker": {
+    "AAPL": 503,
+    "AMD": 503,
+    "AMZN": 503,
+    "AVGO": 503,
+    "CSCO": 503,
+    "MSFT": 503,
+    "NFLX": 503,
+    "PEP": 503,
+    "TMUS": 503,
+    "TSLA": 503
+  },
+  "output_files": 10,
+  "rows_per_file": 24,
+  "total_output_rows": 240,
+  "columns_per_file": 19,
+  "numeric_cells_checked_including_blanks": 4080,
+  "unavailable_indicator_cells_checked": 1890,
+  "float_comparison_relative_tolerance": 1e-10,
+  "float_comparison_absolute_tolerance": 1e-10
+}
