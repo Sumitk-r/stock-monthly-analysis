@@ -1,6 +1,6 @@
 """Convert daily stock prices into 24 monthly bars and technical indicators.
 
-Only Pandas and Python's standard library are used. Calculations never write
+Only Pandas and Python's standard library are used. Calculation never write
 files; write_symbol_files is the separate output boundary.
 """
 
